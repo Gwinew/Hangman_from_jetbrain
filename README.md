@@ -1,4 +1,4 @@
-# Hangman_from_jetbrain
+# Hangman from JetBrains
 
 ## Table of Contents
 - [General info](#general-info)
